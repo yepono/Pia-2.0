@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pia 2.0", "Pia 2.0.csproj", "{72EC27D9-A083-4CDC-AC18-20DB56A88658}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{C7B9552B-6018-4601-B804-CA2C291BC2C0}"
+	ProjectSection(SolutionItems) = preProject
+		Buttons.cs = Buttons.cs
+		Panel.cs = Panel.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72EC27D9-A083-4CDC-AC18-20DB56A88658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72EC27D9-A083-4CDC-AC18-20DB56A88658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72EC27D9-A083-4CDC-AC18-20DB56A88658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72EC27D9-A083-4CDC-AC18-20DB56A88658}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E38850B3-E234-400C-92DA-A3E689D37BF6}
+	EndGlobalSection
+EndGlobal
